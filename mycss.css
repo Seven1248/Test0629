@@ -1,0 +1,83 @@
+h1 {
+
+    text-align: center;
+
+}
+table.home{
+    align-content: center;
+    /* text-align: center; */
+    width: 800px;
+    border-spacing: 3 ;
+}
+
+table.home tr:nth-child(1) {
+
+    background-color: #D9D9FF;
+    /* text-align: center; */
+}
+
+table.home tr:nth-child(2) {
+    background-color: #FFCAEE;   
+}
+
+table.home tr:nth-child(3) {
+    background-color: #FFFFCC;   
+}
+
+table.home tr:nth-child(4) {
+    background-color: #B9EEB9;   
+}
+
+table.home tr:nth-child(5) {
+    background-color: #B9E9FF;   
+    /* text-align: center; */
+}
+
+
+/* 底部輸入框 */
+form {
+    align-content: center;   
+    margin-left: auto;
+    margin-right: auto;
+    /* position: absolute; */
+}
+
+table.userpost {
+    width: 800px;
+    border: 0;
+    align-content: center;
+    border-spacing: 0;
+   
+
+}
+
+table.userpost>tr {
+    align-content: center;
+    width: 800px;
+}
+table.userpost div{
+    color: #ffffff;
+}
+
+table.userpost tr:nth-child(1) {
+
+    background-color: #0084CA;
+    text-align: center;
+}
+
+table.userpost tr:nth-child(2) {
+    background-color: #D9F2FF;   
+}
+
+table.userpost tr:nth-child(3) {
+    background-color: #84D7FF;   
+}
+
+table.userpost tr:nth-child(4),table.userpost tr:nth-child(6) {
+    background-color: #D9F2FF;   
+}
+
+table.userpost tr:nth-child(5),table.userpost tr:nth-child(7) {
+    background-color: #0084CA;   
+    /* text-align: center; */
+}
